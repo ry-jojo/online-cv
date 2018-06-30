@@ -4,13 +4,13 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Yan's Resume
     url: 'http://webjeda.com'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yan Ren
+    tagline: Doctor
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
