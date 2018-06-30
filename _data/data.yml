@@ -14,39 +14,34 @@ sidebar:
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: nomatterhowlong(at)gmail.com
+    # phone: 012 345 6789
+    # website: blog.webjeda.com #do not add http://
+    linkedin: Yan Ren
+    # github: sharu725
+    # twitter: '@webjeda'
 
     languages:
         - language:
-          idiom: English
+          idiom: Chinese
           level: Native
         - language:
-          idiom: French
+          idiom: English
           level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
+       # - language:
+          #idiom: Spanish
+          #level: Professional
         
     interests:
         - interest:
-          item: Climbing
+          item: Ukulele
           link:
         - interest:
-          item: Snowboarding
+          item: Travelling
           link:
         - interest:
-          item: Cooking
+          item: Hand-made Accessories
           link:
-
-        
-
-
-
 
 career-profile: 
     title: Career Profile
@@ -55,17 +50,26 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: PHD in Electronics Science and Technology
+      university: Xidian University, China
+      time: 2011 - 2018
+      details: "Ph.D advisor: Professor Licheng Jiao, IEEE Fellow;
+                Member of the Key Laboratory of Intelligent Perception and Image Understanding of Ministry of
+                Education (IPIU);
+                Monitor of the doctoral class"
+      
+    - education:
+      degree: Visiting Student
+      university: Leiden University, the Netherland
+      time: 2013 - 2014
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
+      degree: BSc in Electronic Engineering
+      university: Xidian University, China
       time: 2007 - 2011
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
