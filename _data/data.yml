@@ -134,7 +134,7 @@ publications:
     title: Publications
     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
-publications:
+publications: 
       - paper:
         title: "A novel eye localization method with rotation invariance"
         authors: Yan Ren*, Shuang Wang, Biao Hou, Jingjing Ma
