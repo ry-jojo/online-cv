@@ -104,7 +104,8 @@ projects:
     title: Projects
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
       sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+      
+ 
     projects:
       - project:
         title: WEAKLY SUPERVISED AND UNSUPERVISED COMMONALITY ANALYSIS, #2017 - present
@@ -173,8 +174,9 @@ skills:
         - skill:
           name: Caffe
           level: 60%
-         -skill: Photoshop & Lightroom
-          name: 90%
+         -skill: 
+          name: Photoshop & Lightroom
+          level:90%
 
 
 footer: 
