@@ -130,25 +130,23 @@ projects:
 
 
 
-
-
 publications:
     title: Publications
-    #intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
+    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+
+publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: "A novel eye localization method with rotation invariance"
+        authors: Yan Ren*, Shuang Wang, Biao Hou, Jingjing Ma
+        conference: "IEEE Transaction on Image Processing, 2014, 23(1):226-239."
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        title: "Mutual Learning Cosegmentation via Tree Structured Sparsity and Tree Graph Matching"
+        authors: Yan Ren*, Licheng Jiao, Shuyuan Yang, Shuang Wang
+        conference: "IEEE Transaction on Image Processing, 2018, DOI: 10.1109/TIP.2018.2842207."
       - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: A Survey on Image and Video Cosegmentation: Weakly supervised and Unsupervised Commonality Analysis
+        authors: Yan Ren, Licheng Jiao
+        conference: "Pattern Recognition, under review"
 
 
 skills:
