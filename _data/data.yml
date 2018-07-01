@@ -86,7 +86,7 @@ experiences:
     
     experiences:
         - role: WEAKLY SUPERVISED AND UNSUPERVISED COMMONALITY ANALYSIS 
-          time: 2017 - present
+          #time: 2017 - present
           company: 2017 - present
           details: A first comprehensive survey covering both image and video cosegmentation is proposed, which are two newly emerged and under developed fields under the domain of image processing and video understanding
 
