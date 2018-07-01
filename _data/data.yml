@@ -100,6 +100,21 @@ experiences:
           company: 2011 - 2013
           details: A Novel Rotation Invariant Learning Method for Object Detection and Localization via Sparse Representation
 
+        - role: AUTOMATIC COSMETIC LENSES
+          #time: 2011 - 2013
+          company: 2010 - 2011
+          details: This Program of Summer Internship is aim at automatically beautify human eyes in face images. The two main steps are the localization of eyes and the warp of eye patterns. The result of the algorithm looks like give cosmetic contacts to eyes
+
+        - role: INTELLIGENT CLASSROOM BASED ON IMAGE UNDERSTANDING
+          #time: 2011 - 2013
+          company: 2009 - 2010
+          details: National University Student Innovation Program with a budget of 12,000 RMB
+          
+        - role: "SPARK CUP" ACADEMIC COMPETITION
+          #time: 2011 - 2013
+          company: 2008 - 2009
+          details: Third Prize of University Academic Competition "Spark Cup". A single spark can start a prairie fire.This competition is my stepping-stone to the world of engineering.
+
 projects:
     title: Projects
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
