@@ -155,23 +155,27 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
+          name: Matlab
           level: 98%
         - skill:
-          name: Javascript & jQuery
+          name: LaTex
           level: 98%
         - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+          name: C++
           level: 85%
         - skill:
-          name: Sketch & Photoshop
+          name: Linux 
+          level: 75%
+        - skill:
+          name: Python
+          level: 65%
+        - skill:
+          name: Caffe
           level: 60%
+        - skill: 
+          name: Photoshop & Lightroom
+          level:90%
+
 
 
 footer: 
