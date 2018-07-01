@@ -1,3 +1,4 @@
+
 #
 # Be aware that even a small syntax error here can lead to failures in output. 
 #
@@ -5,7 +6,7 @@
 sidebar:
     # Site Settings
     title: Yan's Resume
-    url: 'http://webjeda.com'
+    #url: 'http://webjeda.com'
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
@@ -104,81 +105,74 @@ projects:
     title: Projects
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
       sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-      
- 
+    
     projects:
       - project:
-        title: WEAKLY SUPERVISED AND UNSUPERVISED COMMONALITY ANALYSIS, #2017 - present
+        title: Velocity
         link: "#hook"
-        tagline: "A first comprehensive survey covering both image and video cosegmentation is proposed, which are two newly emerged and under developed fields under the domain of image processing and video understanding"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
       - project:
-        title: IMAGE COSEGMENTATION WITH WEIGHTED TREE STRUCTURED SPARSITY, #2013 - 2017
+        title: DevStudio
         link: "#"
-       tagline: "Under weakly supervised condition, a novel unified mutual learning framework is proposed, which complement the adavantages of both tree-graph matching and structured sparsity to fully exploit the spatial information of hierarchical structures and accomplish the task of image cosegmentation.
-                 Two strategies, active node and tree reconstruction, are proposed to enhance the efficiency and flexibility of the proposed framework. The active node strategy is capable of saving half of the computational time with no influences of the cosegmentation results. Meanwhile, the tree reconstruction strategy effectively improve the representation ability of the hierarchical tree structures of images."
+        tagline: "A responsive website template designed to help web developers/designers market their services."
       - project:
-        title: ROTATION INVARIANT OBJECT DETECTION and LOCALIZATION, #2011 - 2013
+        title: Tempo
         link: "#"
-       tagline: "A Novel Rotation Invariant Learning Method for Object Detection and Localization via Sparse Representation "
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
       - project:
-        title: AUTOMATIC COSMETIC LENSES, #2010 - 2011
+        title: Atom
         link: "#"
-        tagline: "This Program of Summer Internship is aim at automatically beautify human eyes in face images. The two main steps are the localization of eyes and the warp of eye patterns. The result of the algorithm looks like give cosmetic contacts to eyes."
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
       - project:
-        title: INTELLIGENT CLASSROOM BASED ON IMAGE UNDERSTANDING, #2009 - 2010
+        title: Delta
         link: "#"
-        tagline: "National University Student Innovation Program with a budget of 12,000 RMB"
-      - project:
-        title: "SPARK CUP" ACADEMIC COMPETITION, #2008 - 2009
-        link: "#"
-        tagline: "hird Prize of University Academic Competition "Spark Cup". A single spark can start a prairie fire.This competition is my stepping-stone to the world of engineering. "
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+
+
 
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    #intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
       - paper:
-        title: "A novel eye localization method with rotation invariance"
-        authors: Yan Ren*, Shuang Wang, Biao Hou, Jingjing Ma
-        conference: "IEEE Transaction on Image Processing, 2014, 23(1):226-239."
+        title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
       - paper:
-        title: "Mutual Learning Cosegmentation via Tree Structured Sparsity and Tree Graph Matching"
-        authors: Yan Ren*, Licheng Jiao, Shuyuan Yang, Shuang Wang
-        conference: "IEEE Transaction on Image Processing, 2018, DOI: 10.1109/TIP.2018.2842207."
+        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
       - paper:
-        title: A Survey on Image and Video Cosegmentation: Weakly supervised and Unsupervised Commonality Analysis
-        authors: Yan Ren, Licheng Jiao
-        conference: "Pattern Recognition, under review"
+        title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Matlab
+          name: Python & Django
           level: 98%
         - skill:
-          name: LaTex
+          name: Javascript & jQuery
           level: 98%
         - skill:
-          name: C++
+          name: Angular
+          level: 98%
+        - skill:
+          name: HTML5 & CSS
+          level: 95%
+        - skill:
+          name: Ruby on Rails
           level: 85%
         - skill:
-          name: Linux 
-          level: 75%
-        - skill:
-          name: Python
-          level: 65%
-        - skill:
-          name: Caffe
+          name: Sketch & Photoshop
           level: 60%
-         -skill: 
-          name: Photoshop & Lightroom
-          level:90%
 
 
 footer: 
-    text: 'Please feel free to contect me <i class="fa fa-heart"></i>'
-    #by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
