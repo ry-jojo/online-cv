@@ -172,9 +172,9 @@ skills:
         - skill:
           name: Caffe
           level: 60%
-        - skill: 
-          name: Photoshop & Lightroom
-          level:90%
+        - skill:
+          name: Caffe
+          level: 60%
 
 
 
