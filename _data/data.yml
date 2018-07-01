@@ -90,17 +90,15 @@ experiences:
           company: 2017 - present
           details: A first comprehensive survey covering both image and video cosegmentation is proposed, which are two newly emerged and under developed fields under the domain of image processing and video understanding
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: IMAGE COSEGMENTATION WITH WEIGHTED TREE STRUCTURED SPARSITY
+          #time: 2014 - 2015
+          company: 2013 - 2017
+          details: Under weakly supervised condition, a novel unified mutual learning framework is proposed, which complement the adavantages of both tree-graph matching and structured sparsity to fully exploit the spatial information of hierarchical structures and accomplish the task of image cosegmentation.
         
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-
-
+        - role: ROTATION INVARIANT OBJECT DETECTION and LOCALIZATION
+          #time: 2011 - 2013
+          company: 2011 - 2013
+          details: A Novel Rotation Invariant Learning Method for Object Detection and Localization via Sparse Representation
 
 projects:
     title: Projects
