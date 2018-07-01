@@ -45,37 +45,37 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: "Research interests include image object detection,localization and segmentation
+    text: "I got my PHD degree from Xidian University in 2018. 
+    As a member of the Key Laboratory of Intelligent Perception and Image Understanding of Ministry of
+    Education (IPIU), China, My advisor is Professor Licheng Jiao, IEEE Fellow. 
+    My research interests include image object detection,localization and segmentation
     under the domain of machine learning and computer vision, especially in weakly supervised or
-    unsupervised conditions"
+    unsupervised conditions."
 
 studies: 
     - education:
       degree: PHD in Electronics Science and Technology
       university: Xidian University, China
       time: 2011 - 2018
-      details: "Ph.D advisor: Professor Licheng Jiao, IEEE Fellow;
-                Member of the Key Laboratory of Intelligent Perception and Image Understanding of Ministry of
-                Education (IPIU);
-                Monitor of the doctoral class"
+      #details: "Ph.D advisor: Professor Licheng Jiao, IEEE Fellow;"
       
     - education:
       degree: Visiting Student
       university: Leiden University, the Netherland
       time: 2013 - 2014
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      #details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      #elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      #magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem."
 
     - education:
       degree: BSc in Electronic Engineering
       university: Xidian University, China
       time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      #details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      #elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      #magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem."
 
 
 
@@ -133,7 +133,7 @@ projects:
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    #intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
       - paper:
