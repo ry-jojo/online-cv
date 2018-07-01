@@ -109,28 +109,28 @@ projects:
       
     projects:
       - project:
-        title: WEAKLY SUPERVISED AND UNSUPERVISED COMMONALITY ANALYSIS #2017 - present
+        title: WEAKLY SUPERVISED AND UNSUPERVISED COMMONALITY ANALYSIS 
         link: "#hook"
         tagline: "A first comprehensive survey covering both image and video cosegmentation is proposed, which are two newly emerged and under developed fields under the domain of image processing and video understanding"
       - project:
-        title: IMAGE COSEGMENTATION WITH WEIGHTED TREE STRUCTURED SPARSITY #2013 - 2017
+        title: IMAGE COSEGMENTATION WITH WEIGHTED TREE STRUCTURED SPARSITY 
         link: "#"
        tagline: "Under weakly supervised condition, a novel unified mutual learning framework is proposed, which complement the adavantages of both tree-graph matching and structured sparsity to fully exploit the spatial information of hierarchical structures and accomplish the task of image cosegmentation.
                  Two strategies, active node and tree reconstruction, are proposed to enhance the efficiency and flexibility of the proposed framework. The active node strategy is capable of saving half of the computational time with no influences of the cosegmentation results. Meanwhile, the tree reconstruction strategy effectively improve the representation ability of the hierarchical tree structures of images."
       - project:
-        title: ROTATION INVARIANT OBJECT DETECTION and LOCALIZATION #2011 - 2013
+        title: ROTATION INVARIANT OBJECT DETECTION and LOCALIZATION
         link: "#"
        tagline: "A Novel Rotation Invariant Learning Method for Object Detection and Localization via Sparse Representation "
       - project:
-        title: AUTOMATIC COSMETIC LENSES, #2010 - 2011
+        title: AUTOMATIC COSMETIC LENSES
         link: "#"
         tagline: "This Program of Summer Internship is aim at automatically beautify human eyes in face images. The two main steps are the localization of eyes and the warp of eye patterns. The result of the algorithm looks like give cosmetic contacts to eyes."
       - project:
-        title: INTELLIGENT CLASSROOM BASED ON IMAGE UNDERSTANDING #2009 - 2010
+        title: INTELLIGENT CLASSROOM BASED ON IMAGE UNDERSTANDING 
         link: "#"
         tagline: "National University Student Innovation Program with a budget of 12,000 RMB"
       - project:
-        title: "SPARK CUP" ACADEMIC COMPETITION #2008 - 2009
+        title: "SPARK CUP" ACADEMIC COMPETITION 
         link: "#"
         tagline: "hird Prize of University Academic Competition "Spark Cup". A single spark can start a prairie fire.This competition is my stepping-stone to the world of engineering. "
 
