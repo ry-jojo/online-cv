@@ -128,6 +128,22 @@ publications:
     
     publications: 
           - paper:
+            title: "Adaptive multi-task learning for few-shot object detection"
+            authors: Ren, Yan and Li, Yanling and Kong, Adams Wai-Kin
+            conference: European Conference on Computer Vision, 2024
+          - paper:
+            title: "Real-Time Shipboard Power Management Based on Monte-Carlo Tree Search"
+            authors: Ren, Yan and Kong, Adams Wai-Kin and Wang, Yi
+            conference: IEEE Transactions on Power Systems, 2022
+          - paper:
+            title: "Power system design optimization for a ferry using hybrid-shaft generators"
+            authors: Oo, Thant Zin and Ren, Yan and Kong, Adams Wai-Kin and Wang, Yi and Liu, Xiong
+            conference: IEEE Transactions on Power Systems, 2021
+          - paper:
+            title: "A survey on image and video cosegmentation: Methods, challenges and analyses"
+            authors: Ren, Yan and Kong, Adams Wai Kin and Jiao, Licheng
+            conference: "Pattern Recognition, 2020"
+          - paper:
             title: "A novel eye localization method with rotation invariance"
             authors: Yan Ren, Shuang Wang, Biao Hou, Jingjing Ma
             conference: "IEEE Transaction on Image Processing, 2014, 23(1):226-239."
@@ -135,10 +151,7 @@ publications:
             title: "Mutual Learning Cosegmentation via Tree Structured Sparsity and Tree Graph Matching"
             authors: Yan Ren, Licheng Jiao, Shuyuan Yang, Shuang Wang
             conference: "IEEE Transaction on Image Processing, 2018, DOI: 10.1109/TIP.2018.2842207."
-          - paper:
-            title: "A Survey on Image and Video Cosegmentation: Weakly supervised and Unsupervised Commonality Analysis"
-            authors: Yan Ren, Licheng Jiao
-            conference: "Pattern Recognition, under review"
+
 
 
 skills:
@@ -146,22 +159,19 @@ skills:
     skills:
         - skill:
           name: Matlab
-          level: 98%
+          level: 100%
         - skill:
           name: LaTex
-          level: 98%
-        - skill:
-          name: C++
-          level: 85%
+          level: 100%
         - skill:
           name: Linux 
-          level: 75%
+          level: 95%
         - skill:
           name: Python
-          level: 65%
+          level: 100%
         - skill:
-          name: Caffe
-          level: 60%
+          name: Pytorch
+          level: 100%
         - skill:
           name: Photoshop & Lightroom
           level: 80%
