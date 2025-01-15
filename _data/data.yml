@@ -78,6 +78,10 @@ experiences:
     
     
     experiences:
+         - role: Adaptive Multi-task Learning for Few-shot Object Detection
+          company: 2022 - 2024
+          details: The majority of few-shot object detection methods use a shared feature map for both classification and localization, despite the conflicting requirements of these two tasks. Localization needs scale and positional sensitive features, whereas classification requires features that are robust to scale and positional variations. Although few methods have recognized this challenge and attempted to address it, they may not provide a comprehensive resolution to the issue. To overcome the contradictory preferences between classification and localization in few-shot object detection, an adaptive multi-task learning method, featuring a novel precision-driven gradient balancer, is proposed. This balancer effectively mitigates the conflicts by dynamically adjusting the backward gradient ratios for both tasks. Furthermore, a knowledge distillation and classification refinement scheme based on CLIP is introduced, aiming to enhance individual tasks by leveraging the capabilities of large vision-language models. Experimental results of the proposed method consistently show improvements over strong few-shot detection baselines on benchmark datasets.
+    
         - role: MARINE POWER SYSTEM DESIGN AND ENERGY MANAGEMENT
           company: 2019 -- 2022
           details: Her primary research focusses on few-shot learning, particularly in scenarios with limited annotated data. Many privacy-preserving applications encounter challenges due to the lack of sufficient data, such as privacy-sensitive images or objects in surveillance systems, or privacy-preserving object detection for medical image analysis. Few-shot learning shows promise in such cases, where the availability of labelled data is restricted, or privacy concerns prevent the collection and sharing of sensitive data.
