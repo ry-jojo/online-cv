@@ -18,7 +18,7 @@ sidebar:
     email: nomatterhowlong(at)gmail.com
     # phone: 012 345 6789
     # website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/yan-ren-7b42708b/
+    linkedin: linkedin.com/in/yan-ren-7b42708b/
     # github: sharu725
     # twitter: '@webjeda'
 
@@ -47,7 +47,7 @@ career-profile:
 
 studies: 
     - education:
-      degree: PHD in Electronics Science and Technology
+      degree: PH.D., School of Artificial Intelligence
       university: Xidian University, China
       time: 2011 - 2018
       #details: "Ph.D advisor: Professor Licheng Jiao, IEEE Fellow;"
@@ -62,7 +62,7 @@ studies:
       #pellentesque eu, pretium quis, sem."
 
     - education:
-      degree: BSc in Electronic Engineering
+      degree: B.S. School of Electronic Engineering}{Xidian University
       university: Xidian University, China
       time: 2007 - 2011
       #details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
@@ -77,6 +77,9 @@ experiences:
     
     
     experiences:
+        - role: MARINE POWER SYSTEM DESIGN AND ENERGY MANAGEMENT
+          company: 2019 -- 2022
+          Her primary research focusses on few-shot learning, particularly in scenarios with limited annotated data. Many privacy-preserving applications encounter challenges due to the lack of sufficient data, such as privacy-sensitive images or objects in surveillance systems, or privacy-preserving object detection for medical image analysis. Few-shot learning shows promise in such cases, where the availability of labelled data is restricted, or privacy concerns prevent the collection and sharing of sensitive data.
         - role: WEAKLY SUPERVISED AND UNSUPERVISED COMMONALITY ANALYSIS 
           #time: 2017 - present
           company: 2017 - present
