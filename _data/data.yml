@@ -18,7 +18,7 @@ sidebar:
     email: nomatterhowlong(at)gmail.com
     # phone: 012 345 6789
     # website: blog.webjeda.com #do not add http://
-    linkedin: Yan Ren
+    linkedin: https://www.linkedin.com/in/yan-ren-7b42708b/
     # github: sharu725
     # twitter: '@webjeda'
 
@@ -29,20 +29,17 @@ sidebar:
         - language:
           idiom: English
           level: Professional
-       # - language:
-          #idiom: Spanish
-          #level: Professional
         
-    interests:
-        - interest:
-          item: Ukulele
-          link:
-        - interest:
-          item: Travelling
-          link:
-        - interest:
-          item: Hand-made Accessories
-          link:
+    # interests:
+    #     - interest:
+    #       item: Ukulele
+    #       link:
+    #     - interest:
+    #       item: Travelling
+    #       link:
+    #     - interest:
+    #       item: Hand-made Accessories
+    #       link:
 
 career-profile: 
     title: Career Profile
