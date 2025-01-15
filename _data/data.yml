@@ -18,7 +18,7 @@ sidebar:
     email: nomatterhowlong(at)gmail.com
     # phone: 012 345 6789
     # website: blog.webjeda.com #do not add http://
-    linkedin: linkedin.com/in/yan-ren-7b42708b/
+    linkedin: yan-ren-7b42708b
     # github: sharu725
     # twitter: '@webjeda'
 
@@ -73,13 +73,6 @@ studies:
 
 
 experiences:
-    title: Experiences
-    experiences:
-        - role: Research Fellow
-          company: SCRIPTS@NTU, Nanyang Technological University, 2022 -- 2025
-        - role: Research Scientist
-          company: Rolls-Royce@NTU, Nanyang Technological University, 2019 -- 2022
-    
     
     title: Projects
     
