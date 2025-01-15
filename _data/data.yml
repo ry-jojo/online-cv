@@ -87,7 +87,8 @@ experiences:
     experiences:
         - role: MARINE POWER SYSTEM DESIGN AND ENERGY MANAGEMENT
           company: 2019 -- 2022
-          Her primary research focusses on few-shot learning, particularly in scenarios with limited annotated data. Many privacy-preserving applications encounter challenges due to the lack of sufficient data, such as privacy-sensitive images or objects in surveillance systems, or privacy-preserving object detection for medical image analysis. Few-shot learning shows promise in such cases, where the availability of labelled data is restricted, or privacy concerns prevent the collection and sharing of sensitive data.
+          details: Her primary research focusses on few-shot learning, particularly in scenarios with limited annotated data. Many privacy-preserving applications encounter challenges due to the lack of sufficient data, such as privacy-sensitive images or objects in surveillance systems, or privacy-preserving object detection for medical image analysis. Few-shot learning shows promise in such cases, where the availability of labelled data is restricted, or privacy concerns prevent the collection and sharing of sensitive data.
+        
         - role: WEAKLY SUPERVISED AND UNSUPERVISED COMMONALITY ANALYSIS 
           #time: 2017 - present
           company: 2017 - 2019
