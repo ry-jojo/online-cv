@@ -43,12 +43,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: "I got my PHD degree from Xidian University in 2018. 
-    As a member of the Key Laboratory of Intelligent Perception and Image Understanding of Ministry of
-    Education (IPIU), China, My advisor is Professor Licheng Jiao, IEEE Fellow. 
-    My research interests include image object detection,localization and segmentation
-    under the domain of machine learning and computer vision, especially in weakly supervised or
-    unsupervised conditions."
+    text: "My undergraduate course on pattern recognition lit my passion for research. After I graduated with a Bachelor's degree in Intelligent Engineering (2011), I directly became a PhD candidate and obtained a doctoral degree from the school of artificial intelligence, Xidian University, China (2018). In 2019, I joined RR@NTU as a research scientist in Singapore. The half-business and half-academic working environments of RR@NTU helped me grow both professionally and personally. At the beginning of 2022, I started my new journey with SCRIPT@NTU. My current research interests include few-shot object detection for images/videos (FSOD), few-shot instance segmentation for images/videos (FSIS), 3D Steganography and optimization algorithms for power management systems (PMS)."
 
 studies: 
     - education:
