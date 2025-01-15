@@ -164,6 +164,12 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
+          name: Python
+          level: 100%
+        - skill:
+          name: Pytorch
+          level: 100%
+         - skill:
           name: Matlab
           level: 100%
         - skill:
@@ -172,15 +178,6 @@ skills:
         - skill:
           name: Linux 
           level: 95%
-        - skill:
-          name: Python
-          level: 100%
-        - skill:
-          name: Pytorch
-          level: 100%
-        - skill:
-          name: Photoshop & Lightroom
-          level: 80%
 
 
 
